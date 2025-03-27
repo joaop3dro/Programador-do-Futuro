@@ -1,0 +1,12 @@
+inherited dmCliente: TdmCliente
+  object qryCadastraCliente: TFDQuery
+    Connection = FDConnection1
+    Left = 56
+    Top = 120
+  end
+  object qryCadastraEndereco: TFDQuery
+    Connection = FDConnection1
+    Left = 184
+    Top = 120
+  end
+end

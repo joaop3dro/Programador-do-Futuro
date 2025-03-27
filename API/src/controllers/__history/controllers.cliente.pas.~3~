@@ -1,0 +1,29 @@
+unit controllers.cliente;
+
+interface
+
+uses Horse, System.json, model.cliente;
+
+procedure Registro;
+procedure CadastraCliente(Req: THorseRequest; Res: THorseResponse; Next: TProc);
+procedure ListaCliente(Req: THorseRequest; Res: THorseResponse; Next: TProc);
+
+implementation
+
+procedure Registro;
+begin
+  THorse.Post('cadastro/cliente', CadastraCliente);
+  THorse.Get('lista/cliente', ListaCliente);
+end;
+
+procedure CadastraCliente(Req: THorseRequest; Res: THorseResponse; Next: TProc);
+begin
+
+end;
+
+procedure ListaCliente(Req: THorseRequest; Res: THorseResponse; Next: TProc);
+begin
+
+end;
+
+end.
