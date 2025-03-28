@@ -1,0 +1,21 @@
+object frmLista: TfrmLista
+  Left = 0
+  Top = 0
+  Caption = 'Form2'
+  ClientHeight = 569
+  ClientWidth = 399
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnClose = FormClose
+  DesignerMasterStyle = 0
+  object VertScrollBox1: TVertScrollBox
+    Align = Client
+    Size.Width = 399.000000000000000000
+    Size.Height = 569.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Viewport.Width = 399.000000000000000000
+    Viewport.Height = 569.000000000000000000
+  end
+end

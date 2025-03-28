@@ -1,0 +1,160 @@
+object FrameCliente: TFrameCliente
+  Size.Width = 331.000000000000000000
+  Size.Height = 254.000000000000000000
+  Size.PlatformDefault = False
+  object Rectangle1: TRectangle
+    Align = Client
+    Fill.Color = claWhite
+    Margins.Left = 8.000000000000000000
+    Margins.Top = 8.000000000000000000
+    Margins.Right = 8.000000000000000000
+    Margins.Bottom = 8.000000000000000000
+    Size.Width = 315.000000000000000000
+    Size.Height = 238.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Color = xFF1B8D95
+    object Layout1: TLayout
+      Align = Client
+      Size.Width = 315.000000000000000000
+      Size.Height = 238.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      object Layout2: TLayout
+        Align = Top
+        Margins.Left = 16.000000000000000000
+        Margins.Top = 16.000000000000000000
+        Margins.Right = 16.000000000000000000
+        Margins.Bottom = 4.000000000000000000
+        Position.X = 16.000000000000000000
+        Position.Y = 16.000000000000000000
+        Size.Width = 283.000000000000000000
+        Size.Height = 49.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 3
+        object SkLabel1: TSkLabel
+          Align = Top
+          Size.Width = 283.000000000000000000
+          Size.Height = 19.000000000000000000
+          Size.PlatformDefault = False
+          Words = <
+            item
+              Text = 'Nome'
+            end>
+        end
+        object lblNome: TSkLabel
+          Align = Top
+          Position.Y = 19.000000000000000000
+          Size.Width = 283.000000000000000000
+          Size.Height = 19.000000000000000000
+          Size.PlatformDefault = False
+          Words = <
+            item
+              Text = 'SkLabel1'
+            end>
+        end
+      end
+      object Layout3: TLayout
+        Align = Top
+        Margins.Left = 16.000000000000000000
+        Margins.Top = 4.000000000000000000
+        Margins.Right = 16.000000000000000000
+        Margins.Bottom = 4.000000000000000000
+        Position.X = 16.000000000000000000
+        Position.Y = 73.000000000000000000
+        Size.Width = 283.000000000000000000
+        Size.Height = 47.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 2
+        object SkLabel2: TSkLabel
+          Align = Top
+          Size.Width = 283.000000000000000000
+          Size.Height = 19.000000000000000000
+          Size.PlatformDefault = False
+          Words = <
+            item
+              Text = 'Celular'
+            end>
+        end
+        object lblCelular: TSkLabel
+          Align = Top
+          Position.Y = 19.000000000000000000
+          Size.Width = 283.000000000000000000
+          Size.Height = 19.000000000000000000
+          Size.PlatformDefault = False
+          Words = <
+            item
+              Text = 'SkLabel1'
+            end>
+        end
+      end
+      object Layout4: TLayout
+        Align = Top
+        Margins.Left = 16.000000000000000000
+        Margins.Top = 4.000000000000000000
+        Margins.Right = 16.000000000000000000
+        Margins.Bottom = 4.000000000000000000
+        Position.X = 16.000000000000000000
+        Position.Y = 128.000000000000000000
+        Size.Width = 283.000000000000000000
+        Size.Height = 47.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 1
+        object SkLabel3: TSkLabel
+          Align = Top
+          Size.Width = 283.000000000000000000
+          Size.Height = 19.000000000000000000
+          Size.PlatformDefault = False
+          Words = <
+            item
+              Text = 'E-Mail'
+            end>
+        end
+        object lblEmail: TSkLabel
+          Align = Top
+          Position.Y = 19.000000000000000000
+          Size.Width = 283.000000000000000000
+          Size.Height = 19.000000000000000000
+          Size.PlatformDefault = False
+          Words = <
+            item
+              Text = 'SkLabel1'
+            end>
+        end
+      end
+      object Layout5: TLayout
+        Align = Top
+        Margins.Left = 16.000000000000000000
+        Margins.Top = 4.000000000000000000
+        Margins.Right = 16.000000000000000000
+        Margins.Bottom = 16.000000000000000000
+        Position.X = 16.000000000000000000
+        Position.Y = 183.000000000000000000
+        Size.Width = 283.000000000000000000
+        Size.Height = 47.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 0
+        object SkLabel4: TSkLabel
+          Align = Top
+          Size.Width = 283.000000000000000000
+          Size.Height = 19.000000000000000000
+          Size.PlatformDefault = False
+          Words = <
+            item
+              Text = 'Idade'
+            end>
+        end
+        object lblIdade: TSkLabel
+          Align = Top
+          Position.Y = 19.000000000000000000
+          Size.Width = 283.000000000000000000
+          Size.Height = 19.000000000000000000
+          Size.PlatformDefault = False
+          Words = <
+            item
+              Text = 'lblIdade'
+            end>
+        end
+      end
+    end
+  end
+end
