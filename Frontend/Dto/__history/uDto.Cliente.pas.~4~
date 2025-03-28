@@ -1,0 +1,74 @@
+unit uDto.Cliente;
+
+interface
+
+uses
+   Pkg.Json.DTO, System.Generics.Collections, REST.Json.Types;
+
+{$M+}
+
+type
+  TItems = class
+  private
+    FBairro: string;
+    FCelular: string;
+    FCep: string;
+    FCidade: string;
+    FCod: Integer;
+    FEmail: string;
+    FEndereco: string;
+    FIdade: Integer;
+    FNome: string;
+    FNumero: string;
+    FUf: string;
+  published
+    property Bairro: string read FBairro write FBairro;
+    property Celular: string read FCelular write FCelular;
+    property Cep: string read FCep write FCep;
+    property Cidade: string read FCidade write FCidade;
+    property Cod: Integer read FCod write FCod;
+    property Email: string read FEmail write FEmail;
+    property Endereco: string read FEndereco write FEndereco;
+    property Idade: Integer read FIdade write FIdade;
+    property Nome: string read FNome write FNome;
+    property Numero: string read FNumero write FNumero;
+    property Uf: string read FUf write FUf;
+  end;
+
+  TListaCliente = class(TJsonDTO)
+  private
+    [JSONName('Items'), JSONMarshalled(False)]
+    FItemsArray: TArray<TItems>;
+    [GenericListReflect]
+    FItems: TObjectList<TItems>;
+    function GetItems: TObjectList<TItems>;
+  protected
+    function GetAsJson: string; override;
+  published
+    property Items: TObjectList<TItems> read GetItems;
+  public
+    destructor Destroy; override;
+  end;
+
+implementation
+
+{ TListaCliente }
+
+destructor TListaCliente.Destroy;
+begin
+  GetItems.Free;
+  inherited;
+end;
+
+function TListaCliente.GetItems: TObjectList<TItems>;
+begin
+  Result := ObjectList<TItems>(FItems, FItemsArray);
+end;
+
+function TListaCliente.GetAsJson: string;
+begin
+  RefreshArray<TItems>(FItems, FItemsArray);
+  Result := inherited;
+end;
+
+end.

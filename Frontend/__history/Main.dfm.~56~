@@ -1,0 +1,357 @@
+object MainForm: TMainForm
+  Left = 0
+  Top = 0
+  ClientHeight = 546
+  ClientWidth = 1645
+  Caption = 'MainForm'
+  OnShow = UniFormShow
+  OldCreateOrder = False
+  MonitoredKeys.Keys = <>
+  Font.Name = 'Roboto'
+  TextHeight = 14
+  object PnlHeader: TUniPanel
+    Left = 0
+    Top = 0
+    Width = 1645
+    Height = 41
+    Hint = ''
+    Align = alTop
+    TabOrder = 0
+    ShowCaption = False
+    Caption = ''
+    Color = 14306929
+    ExplicitTop = 2
+    ExplicitWidth = 625
+    object LblCadastro: TUniLabel
+      Left = 13
+      Top = 11
+      Width = 52
+      Height = 15
+      Cursor = crHandPoint
+      Hint = ''
+      TextConversion = txtHTML
+      Caption = 'Cadastro'
+      ParentFont = False
+      Font.Color = clWhite
+      Font.Height = -13
+      Font.Name = 'Roboto'
+      TabOrder = 1
+    end
+    object LblAgenda: TUniLabel
+      Left = 111
+      Top = 11
+      Width = 79
+      Height = 15
+      Cursor = crHandPoint
+      Hint = ''
+      TextConversion = txtHTML
+      Caption = 'Agendamento'
+      ParentFont = False
+      Font.Color = clWhite
+      Font.Height = -13
+      Font.Name = 'Roboto'
+      TabOrder = 2
+    end
+  end
+  object UniPanel2: TUniPanel
+    Left = 0
+    Top = 41
+    Width = 1645
+    Height = 248
+    Hint = ''
+    Align = alTop
+    TabOrder = 1
+    ShowCaption = False
+    Caption = ''
+    DesignSize = (
+      1645
+      248)
+    object BtnSalvar: TUniButton
+      Left = 13
+      Top = 160
+      Width = 99
+      Height = 25
+      Hint = ''
+      Caption = 'Salvar'
+      ParentFont = False
+      Font.Color = clWhite
+      Font.Name = 'Roboto'
+      TabOrder = 1
+      OnClick = BtnSalvarClick
+    end
+    object BtnCancel: TUniButton
+      Left = 118
+      Top = 160
+      Width = 109
+      Height = 25
+      Hint = ''
+      Caption = 'Cancelar'
+      ParentFont = False
+      Font.Color = clWhite
+      Font.Name = 'Roboto'
+      TabOrder = 2
+      OnClick = BtnCancelClick
+    end
+    object EdtNome: TUniEdit
+      Left = 9
+      Top = 29
+      Width = 248
+      Hint = ''
+      Text = ''
+      TabOrder = 3
+    end
+    object EdtEmail: TUniEdit
+      Left = 283
+      Top = 29
+      Width = 270
+      Hint = ''
+      Text = ''
+      TabOrder = 4
+    end
+    object EdtTel: TUniEdit
+      Left = 579
+      Top = 29
+      Width = 126
+      Hint = ''
+      Text = ''
+      TabOrder = 5
+    end
+    object EdtIdade: TUniEdit
+      Left = 9
+      Top = 101
+      Width = 126
+      Hint = ''
+      Text = ''
+      TabOrder = 6
+    end
+    object UniPanel3: TUniPanel
+      Left = 7
+      Top = 143
+      Width = 1630
+      Height = 5
+      Hint = ''
+      Anchors = [akLeft, akTop, akRight]
+      TabOrder = 7
+      ShowCaption = False
+      Caption = ''
+    end
+    object EdtEnd: TUniEdit
+      Left = 148
+      Top = 101
+      Width = 248
+      Hint = ''
+      Text = ''
+      TabOrder = 8
+    end
+    object EdtCep: TUniEdit
+      Left = 414
+      Top = 101
+      Width = 270
+      Hint = ''
+      Text = ''
+      TabOrder = 9
+    end
+    object EdtNum: TUniEdit
+      Left = 734
+      Top = 29
+      Width = 126
+      Hint = ''
+      Text = ''
+      TabOrder = 10
+    end
+    object EdtBairro: TUniEdit
+      Left = 724
+      Top = 101
+      Width = 126
+      Hint = ''
+      Text = ''
+      TabOrder = 11
+    end
+    object EdtCidade: TUniEdit
+      Left = 876
+      Top = 29
+      Width = 126
+      Hint = ''
+      Text = ''
+      TabOrder = 12
+    end
+    object UniLabel1: TUniLabel
+      Left = 9
+      Top = 10
+      Width = 30
+      Height = 13
+      Hint = ''
+      Caption = 'Nome'
+      TabOrder = 13
+    end
+    object UniLabel2: TUniLabel
+      Left = 283
+      Top = 10
+      Width = 33
+      Height = 13
+      Hint = ''
+      Caption = 'E-Mail'
+      TabOrder = 14
+    end
+    object UniLabel3: TUniLabel
+      Left = 579
+      Top = 10
+      Width = 44
+      Height = 13
+      Hint = ''
+      Caption = 'Telefone'
+      TabOrder = 15
+    end
+    object UniLabel4: TUniLabel
+      Left = 9
+      Top = 81
+      Width = 27
+      Height = 13
+      Hint = ''
+      Caption = 'Idade'
+      TabOrder = 16
+    end
+    object UniLabel5: TUniLabel
+      Left = 148
+      Top = 81
+      Width = 46
+      Height = 13
+      Hint = ''
+      Caption = 'Endere'#231'o'
+      TabOrder = 17
+    end
+    object UniLabel6: TUniLabel
+      Left = 414
+      Top = 81
+      Width = 19
+      Height = 13
+      Hint = ''
+      Caption = 'Cep'
+      TabOrder = 18
+    end
+    object UniLabel7: TUniLabel
+      Left = 734
+      Top = 10
+      Width = 40
+      Height = 13
+      Hint = ''
+      Caption = 'Numero'
+      TabOrder = 19
+    end
+    object UniLabel8: TUniLabel
+      Left = 724
+      Top = 81
+      Width = 30
+      Height = 13
+      Hint = ''
+      Caption = 'Bairro'
+      TabOrder = 20
+    end
+    object UniLabel9: TUniLabel
+      Left = 876
+      Top = 11
+      Width = 34
+      Height = 13
+      Hint = ''
+      Caption = 'Cidade'
+      TabOrder = 21
+    end
+    object EdtUF: TUniEdit
+      Left = 876
+      Top = 101
+      Width = 40
+      Hint = ''
+      Text = ''
+      TabOrder = 22
+    end
+    object UniLabel10: TUniLabel
+      Left = 876
+      Top = 81
+      Width = 11
+      Height = 13
+      Hint = ''
+      Caption = 'Uf'
+      TabOrder = 23
+    end
+    object BtnBuscarCliente: TUniButton
+      Left = 243
+      Top = 160
+      Width = 232
+      Height = 25
+      Hint = ''
+      Caption = 'Buscar Clientes'
+      ParentFont = False
+      Font.Color = 2763306
+      Font.Name = 'Roboto'
+      TabOrder = 24
+      OnClick = BtnBuscarClienteClick
+    end
+    object UniPanel1: TUniPanel
+      Left = 1
+      Top = 206
+      Width = 1643
+      Height = 41
+      Hint = ''
+      Align = alBottom
+      TabOrder = 25
+      ShowCaption = False
+      Caption = ''
+      Color = 14306929
+      ExplicitLeft = -23
+      ExplicitTop = 225
+      object UniLabel12: TUniLabel
+        Left = 12
+        Top = 10
+        Width = 150
+        Height = 19
+        Cursor = crHandPoint
+        Hint = ''
+        TextConversion = txtHTML
+        Caption = 'Detalhes dos clientes'
+        ParentFont = False
+        Font.Color = clWhite
+        Font.Height = -16
+        Font.Name = 'Roboto'
+        TabOrder = 1
+      end
+    end
+    object UniMemo1: TUniMemo
+      Left = 1024
+      Top = 29
+      Width = 233
+      Height = 89
+      Hint = ''
+      Lines.Strings = (
+        'UniMemo1')
+      TabOrder = 26
+    end
+  end
+  object UniDBGrid1: TUniDBGrid
+    Left = 0
+    Top = 289
+    Width = 1645
+    Height = 257
+    Hint = ''
+    DataSource = DsCliente
+    LoadMask.Message = 'Loading data...'
+    ForceFit = True
+    Align = alClient
+    TabOrder = 2
+  end
+  object MemCliente: TFDMemTable
+    FetchOptions.AssignedValues = [evMode]
+    FetchOptions.Mode = fmAll
+    ResourceOptions.AssignedValues = [rvSilentMode]
+    ResourceOptions.SilentMode = True
+    UpdateOptions.AssignedValues = [uvCheckRequired, uvAutoCommitUpdates]
+    UpdateOptions.CheckRequired = False
+    UpdateOptions.AutoCommitUpdates = True
+    Left = 368
+    Top = 280
+  end
+  object DsCliente: TDataSource
+    DataSet = MemCliente
+    Left = 440
+    Top = 272
+  end
+end

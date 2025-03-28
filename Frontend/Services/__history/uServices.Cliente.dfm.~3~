@@ -1,0 +1,19 @@
+object DataModule1: TDataModule1
+  Height = 180
+  Width = 640
+  object RESTCliente: TRESTClient
+    BaseURL = 'http://localhost:9000/lista/cliente'
+    Params = <>
+    SynchronizedEvents = False
+    Left = 112
+    Top = 24
+  end
+  object RESTRequest1: TRESTRequest
+    AssignedValues = [rvConnectTimeout, rvReadTimeout]
+    Client = RESTCliente
+    Params = <>
+    SynchronizedEvents = False
+    Left = 208
+    Top = 16
+  end
+end

@@ -1,0 +1,36 @@
+unit uServices.Cliente;
+
+interface
+
+uses
+  System.SysUtils, System.Classes, REST.Types, REST.Client,
+  Data.Bind.Components, Data.Bind.ObjectScope,
+  uDto.Cliente ,MainModule;
+
+type
+  TDataModule1 = class(TDataModule)
+    RESTCliente: TRESTClient;
+    RESTReqCliente: TRESTRequest;
+  private
+    { Private declarations }
+  public
+    function GettAllClientes: TListaCliente;
+  end;
+
+var
+  DataModule1: TDataModule1;
+
+implementation
+
+{%CLASSGROUP 'Vcl.Controls.TControl'}
+
+{$R *.dfm}
+
+{ TDataModule1 }
+
+function TDataModule1.GettAllClientes: TListaCliente;
+begin
+  RESTCliente.BaseURL := UniMainModule.GetUrlBackend + '/lista/cliente';
+end;
+
+end.

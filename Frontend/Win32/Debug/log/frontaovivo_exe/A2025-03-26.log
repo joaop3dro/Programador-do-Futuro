@@ -1,0 +1,190 @@
+FrontAoVivo.exe: 000046E8: 19:57:53 []:>--------------------------------------------------------------<
+FrontAoVivo.exe: 000046E8: 19:57:53 [TUniServerModule]:Server First Init.
+FrontAoVivo.exe: 000046E8: 19:57:53 [TUniServerModule]:Start Path = D:\Fontes\LiveDNV_PF\Frontend\Win32\Debug\
+FrontAoVivo.exe: 000046E8: 19:57:53 [TUniServerModule]:Debug Mode = ON
+FrontAoVivo.exe: 000046E8: 19:57:53 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+FrontAoVivo.exe: 000046E8: 19:57:59 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. : Addr: $012949AB
+FrontAoVivo.exe: 000046E8: 19:58:07 [TUniServerModule]:Shutting Down Server.
+FrontAoVivo.exe: 000046E8: 19:58:07 [TUniServerModule]:Stopping HTTP Server.
+FrontAoVivo.exe: 000046E8: 19:58:07 [TUniServerModule]:HTTP Server Stopped.
+FrontAoVivo.exe: 000046E8: 19:58:07 [TUniGUISessionManager]:Terminating Session manager.
+FrontAoVivo.exe: 000046E8: 19:58:07 [TUniGUISessionManager]:Stopping Cache Eraser...
+FrontAoVivo.exe: 000046E8: 19:58:08 [TUniGUISessionManager]:Cache Eraser Stopped.
+FrontAoVivo.exe: 000046E8: 19:58:08 [TUniGUISessionManager]:Destroying Worker Threads.
+FrontAoVivo.exe: 000046E8: 19:58:08 [TUniGUISessionManager]:Session manager terminated.
+FrontAoVivo.exe: 000046E8: 19:58:08 [TUniWebSocketStack]:Terminating...
+FrontAoVivo.exe: 000046E8: 19:58:08 [TUniGUIMessageQ]:Terminated.
+FrontAoVivo.exe: 000046E8: 19:58:08 [TUniWebSocketStack]:Terminated.
+FrontAoVivo.exe: 000046E8: 19:58:08 [TUniServerModule]:Server Shutdown Completed.
+FrontAoVivo.exe: 000046E8: 19:58:08 []:<-------------------------------------------------------------->
+FrontAoVivo.exe: 00000768: 19:58:21 []:>--------------------------------------------------------------<
+FrontAoVivo.exe: 00000768: 19:58:21 [TUniServerModule]:Server First Init.
+FrontAoVivo.exe: 00000768: 19:58:21 [TUniServerModule]:Start Path = D:\Fontes\LiveDNV_PF\Frontend\Win32\Debug\
+FrontAoVivo.exe: 00000768: 19:58:21 [TUniServerModule]:Debug Mode = ON
+FrontAoVivo.exe: 00000768: 19:58:21 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+FrontAoVivo.exe: 00000768: 19:58:22 [TUniServerModule]:HTTP Server Started on Port: 8077
+FrontAoVivo.exe: 00003BB4: 19:58:45 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Ygl31qp7sN110A601FD ) : Addr: $013A3CC9
+FrontAoVivo.exe: 00003218: 20:02:19 []:>--------------------------------------------------------------<
+FrontAoVivo.exe: 00003218: 20:02:19 [TUniServerModule]:Server First Init.
+FrontAoVivo.exe: 00003218: 20:02:19 [TUniServerModule]:Start Path = D:\Fontes\LiveDNV_PF\Frontend\Win32\Debug\
+FrontAoVivo.exe: 00003218: 20:02:19 [TUniServerModule]:Debug Mode = ON
+FrontAoVivo.exe: 00003218: 20:02:19 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+FrontAoVivo.exe: 00003218: 20:02:19 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+FrontAoVivo.exe: 00003218: 20:02:19 [TUniServerModule]:HTTP Server Started on Port: 8077
+FrontAoVivo.exe: 00003C44: 20:02:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: zn8MQ4ZBsn110A605EE ) : Addr: $00CF3CC9
+FrontAoVivo.exe: 00000680: 20:17:50 []:>--------------------------------------------------------------<
+FrontAoVivo.exe: 00000680: 20:17:50 [TUniServerModule]:Server First Init.
+FrontAoVivo.exe: 00000680: 20:17:50 [TUniServerModule]:Start Path = D:\Fontes\LiveDNV_PF\Frontend\Win32\Debug\
+FrontAoVivo.exe: 00000680: 20:17:50 [TUniServerModule]:Debug Mode = ON
+FrontAoVivo.exe: 00000680: 20:17:50 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+FrontAoVivo.exe: 00000680: 20:17:51 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+FrontAoVivo.exe: 00000680: 20:17:51 [TUniServerModule]:HTTP Server Started on Port: 8077
+FrontAoVivo.exe: 00003AB4: 20:21:05 []:>--------------------------------------------------------------<
+FrontAoVivo.exe: 00003AB4: 20:21:05 [TUniServerModule]:Server First Init.
+FrontAoVivo.exe: 00003AB4: 20:21:05 [TUniServerModule]:Start Path = D:\Fontes\LiveDNV_PF\Frontend\Win32\Debug\
+FrontAoVivo.exe: 00003AB4: 20:21:05 [TUniServerModule]:Debug Mode = ON
+FrontAoVivo.exe: 00003AB4: 20:21:05 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+FrontAoVivo.exe: 00003AB4: 20:21:06 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+FrontAoVivo.exe: 00003AB4: 20:21:06 [TUniServerModule]:HTTP Server Started on Port: 8077
+FrontAoVivo.exe: 00003054: 20:28:27 []:>--------------------------------------------------------------<
+FrontAoVivo.exe: 00003054: 20:28:27 [TUniServerModule]:Server First Init.
+FrontAoVivo.exe: 00003054: 20:28:27 [TUniServerModule]:Start Path = D:\Fontes\LiveDNV_PF\Frontend\Win32\Debug\
+FrontAoVivo.exe: 00003054: 20:28:27 [TUniServerModule]:Debug Mode = ON
+FrontAoVivo.exe: 00003054: 20:28:27 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+FrontAoVivo.exe: 00003054: 20:28:27 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+FrontAoVivo.exe: 00003054: 20:28:28 [TUniServerModule]:HTTP Server Started on Port: 8077
+FrontAoVivo.exe: 00003C48: 20:28:30 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: UmJYtSl2NE110A60C01 ) : Addr: $00F13CC9
+FrontAoVivo.exe: 00002270: 20:39:43 []:>--------------------------------------------------------------<
+FrontAoVivo.exe: 00002270: 20:39:43 [TUniServerModule]:Server First Init.
+FrontAoVivo.exe: 00002270: 20:39:44 [TUniServerModule]:Start Path = D:\Fontes\LiveDNV_PF\Frontend\Win32\Debug\
+FrontAoVivo.exe: 00002270: 20:39:44 [TUniServerModule]:Debug Mode = ON
+FrontAoVivo.exe: 00002270: 20:39:44 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+FrontAoVivo.exe: 00002270: 20:39:44 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+FrontAoVivo.exe: 00002270: 20:39:44 [TUniServerModule]:HTTP Server Started on Port: 8077
+FrontAoVivo.exe: 00004660: 20:39:49 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Nm9DMwyNX6110A60E01 ) : Addr: $00823CC9
+FrontAoVivo.exe: 00003BE4: 20:40:38 []:>--------------------------------------------------------------<
+FrontAoVivo.exe: 00003BE4: 20:40:38 [TUniServerModule]:Server First Init.
+FrontAoVivo.exe: 00003BE4: 20:40:38 [TUniServerModule]:Start Path = D:\Fontes\LiveDNV_PF\Frontend\Win32\Debug\
+FrontAoVivo.exe: 00003BE4: 20:40:38 [TUniServerModule]:Debug Mode = ON
+FrontAoVivo.exe: 00003BE4: 20:40:38 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+FrontAoVivo.exe: 00003BE4: 20:40:38 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+FrontAoVivo.exe: 00003BE4: 20:40:39 [TUniServerModule]:HTTP Server Started on Port: 8077
+FrontAoVivo.exe: 000046FC: 20:40:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: yMrDdHk6Pb110A61113 ) : Addr: $009D3CC9
+FrontAoVivo.exe: 00001AC0: 20:46:45 []:>--------------------------------------------------------------<
+FrontAoVivo.exe: 00001AC0: 20:46:45 [TUniServerModule]:Server First Init.
+FrontAoVivo.exe: 00001AC0: 20:46:45 [TUniServerModule]:Start Path = D:\Fontes\LiveDNV_PF\Frontend\Win32\Debug\
+FrontAoVivo.exe: 00001AC0: 20:46:45 [TUniServerModule]:Debug Mode = ON
+FrontAoVivo.exe: 00001AC0: 20:46:45 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+FrontAoVivo.exe: 00001AC0: 20:46:46 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+FrontAoVivo.exe: 00001AC0: 20:46:46 [TUniServerModule]:HTTP Server Started on Port: 8077
+FrontAoVivo.exe: 00003F38: 20:46:50 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: W8tZhefbVr110A61151 ) : Addr: $00E93CC9
+FrontAoVivo.exe: 000042FC: 20:55:12 []:>--------------------------------------------------------------<
+FrontAoVivo.exe: 000042FC: 20:55:12 [TUniServerModule]:Server First Init.
+FrontAoVivo.exe: 000042FC: 20:55:12 [TUniServerModule]:Start Path = D:\Fontes\LiveDNV_PF\Frontend\Win32\Debug\
+FrontAoVivo.exe: 000042FC: 20:55:12 [TUniServerModule]:Debug Mode = ON
+FrontAoVivo.exe: 000042FC: 20:55:12 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+FrontAoVivo.exe: 000042FC: 20:55:13 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+FrontAoVivo.exe: 000042FC: 20:55:13 [TUniServerModule]:HTTP Server Started on Port: 8077
+FrontAoVivo.exe: 000043F8: 20:55:47 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 7IuxKrDpOn110A612F9 ) : Addr: $00913CC9
+FrontAoVivo.exe: 000039DC: 20:59:42 []:>--------------------------------------------------------------<
+FrontAoVivo.exe: 000039DC: 20:59:42 [TUniServerModule]:Server First Init.
+FrontAoVivo.exe: 000039DC: 20:59:42 [TUniServerModule]:Start Path = D:\Fontes\LiveDNV_PF\Frontend\Win32\Debug\
+FrontAoVivo.exe: 000039DC: 20:59:42 [TUniServerModule]:Debug Mode = ON
+FrontAoVivo.exe: 000039DC: 20:59:42 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+FrontAoVivo.exe: 000039DC: 20:59:42 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+FrontAoVivo.exe: 000039DC: 20:59:43 [TUniServerModule]:HTTP Server Started on Port: 8077
+FrontAoVivo.exe: 00000580: 20:59:44 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Th859eGScx110A61567 ) : Addr: $00693CC9
+FrontAoVivo.exe: 00003E78: 21:32:07 []:>--------------------------------------------------------------<
+FrontAoVivo.exe: 00003E78: 21:32:07 [TUniServerModule]:Server First Init.
+FrontAoVivo.exe: 00003E78: 21:32:07 [TUniServerModule]:Start Path = D:\Fontes\LiveDNV_PF\Frontend\Win32\Debug\
+FrontAoVivo.exe: 00003E78: 21:32:07 [TUniServerModule]:Debug Mode = ON
+FrontAoVivo.exe: 00003E78: 21:32:07 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+FrontAoVivo.exe: 00003E78: 21:32:08 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+FrontAoVivo.exe: 00003E78: 21:32:08 [TUniServerModule]:HTTP Server Started on Port: 8077
+FrontAoVivo.exe: 000042A0: 21:33:28 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 6afRVuDZpq110A6167A ) : Addr: $0052C46D
+FrontAoVivo.exe: 000030F8: 21:34:01 [127.0.0.1]:EJSONException : Value 'listHelp' not found : Addr: $006D5FC3
+FrontAoVivo.exe: 0000398C: 21:34:51 []:>--------------------------------------------------------------<
+FrontAoVivo.exe: 0000398C: 21:34:51 [TUniServerModule]:Server First Init.
+FrontAoVivo.exe: 0000398C: 21:34:51 [TUniServerModule]:Start Path = D:\Fontes\LiveDNV_PF\Frontend\Win32\Debug\
+FrontAoVivo.exe: 0000398C: 21:34:51 [TUniServerModule]:Debug Mode = ON
+FrontAoVivo.exe: 0000398C: 21:34:52 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+FrontAoVivo.exe: 0000398C: 21:34:52 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+FrontAoVivo.exe: 0000398C: 21:34:52 [TUniServerModule]:HTTP Server Started on Port: 8077
+FrontAoVivo.exe: 000034BC: 21:34:59 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: si7PFly9hR110A61FA0 ) : Addr: $009CC46D
+FrontAoVivo.exe: 000025E0: 21:36:59 []:>--------------------------------------------------------------<
+FrontAoVivo.exe: 000025E0: 21:36:59 [TUniServerModule]:Server First Init.
+FrontAoVivo.exe: 000025E0: 21:36:59 [TUniServerModule]:Start Path = D:\Fontes\LiveDNV_PF\Frontend\Win32\Debug\
+FrontAoVivo.exe: 000025E0: 21:36:59 [TUniServerModule]:Debug Mode = ON
+FrontAoVivo.exe: 000025E0: 21:36:59 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+FrontAoVivo.exe: 000025E0: 21:37:00 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+FrontAoVivo.exe: 000025E0: 21:37:00 [TUniServerModule]:HTTP Server Started on Port: 8077
+FrontAoVivo.exe: 00002B58: 22:05:36 []:>--------------------------------------------------------------<
+FrontAoVivo.exe: 00002B58: 22:05:36 [TUniServerModule]:Server First Init.
+FrontAoVivo.exe: 00002B58: 22:05:36 [TUniServerModule]:Start Path = D:\Fontes\LiveDNV_PF\Frontend\Win32\Debug\
+FrontAoVivo.exe: 00002B58: 22:05:36 [TUniServerModule]:Debug Mode = ON
+FrontAoVivo.exe: 00002B58: 22:05:36 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+FrontAoVivo.exe: 00002B58: 22:05:37 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+FrontAoVivo.exe: 00002B58: 22:05:37 [TUniServerModule]:HTTP Server Started on Port: 8077
+FrontAoVivo.exe: 000014BC: 22:06:37 []:>--------------------------------------------------------------<
+FrontAoVivo.exe: 000014BC: 22:06:37 [TUniServerModule]:Server First Init.
+FrontAoVivo.exe: 000014BC: 22:06:37 [TUniServerModule]:Start Path = D:\Fontes\LiveDNV_PF\Frontend\Win32\Debug\
+FrontAoVivo.exe: 000014BC: 22:06:37 [TUniServerModule]:Debug Mode = ON
+FrontAoVivo.exe: 000014BC: 22:06:38 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+FrontAoVivo.exe: 000014BC: 22:06:38 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+FrontAoVivo.exe: 000014BC: 22:06:38 [TUniServerModule]:HTTP Server Started on Port: 8077
+FrontAoVivo.exe: 00001D10: 22:06:48 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: eWnxIuK53n110A6285A ) : Addr: $0044C46D
+FrontAoVivo.exe: 000006BC: 22:10:10 []:>--------------------------------------------------------------<
+FrontAoVivo.exe: 000006BC: 22:10:10 [TUniServerModule]:Server First Init.
+FrontAoVivo.exe: 000006BC: 22:10:10 [TUniServerModule]:Start Path = D:\Fontes\LiveDNV_PF\Frontend\Win32\Debug\
+FrontAoVivo.exe: 000006BC: 22:10:10 [TUniServerModule]:Debug Mode = ON
+FrontAoVivo.exe: 000006BC: 22:10:10 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+FrontAoVivo.exe: 000006BC: 22:10:10 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+FrontAoVivo.exe: 000006BC: 22:10:11 [TUniServerModule]:HTTP Server Started on Port: 8077
+FrontAoVivo.exe: 000022F0: 22:10:15 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: tS5y6GtIdh110A628AC ) : Addr: $010DC46D
+FrontAoVivo.exe: 00004338: 22:19:11 []:>--------------------------------------------------------------<
+FrontAoVivo.exe: 00004338: 22:19:11 [TUniServerModule]:Server First Init.
+FrontAoVivo.exe: 00004338: 22:19:11 [TUniServerModule]:Start Path = D:\Fontes\LiveDNV_PF\Frontend\Win32\Debug\
+FrontAoVivo.exe: 00004338: 22:19:11 [TUniServerModule]:Debug Mode = ON
+FrontAoVivo.exe: 00004338: 22:19:12 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+FrontAoVivo.exe: 00004338: 22:19:12 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+FrontAoVivo.exe: 00004338: 22:19:12 [TUniServerModule]:HTTP Server Started on Port: 8077
+FrontAoVivo.exe: 00002D88: 22:19:44 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 4LCoFVFc2N110A6299B ) : Addr: $0062C46D
+FrontAoVivo.exe: 000045A8: 22:19:44 [HandleFileRequest[127.0.0.1]]:File not found: D:\Fontes\LiveDNV_PF\Frontend\Win32\Debug\favicon.ico
+FrontAoVivo.exe: 00000130: 22:20:46 []:>--------------------------------------------------------------<
+FrontAoVivo.exe: 00000130: 22:20:46 [TUniServerModule]:Server First Init.
+FrontAoVivo.exe: 00000130: 22:20:46 [TUniServerModule]:Start Path = D:\Fontes\LiveDNV_PF\Frontend\Win32\Debug\
+FrontAoVivo.exe: 00000130: 22:20:47 [TUniServerModule]:Debug Mode = ON
+FrontAoVivo.exe: 00000130: 22:20:47 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+FrontAoVivo.exe: 00000130: 22:20:48 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+FrontAoVivo.exe: 00000130: 22:20:49 [TUniServerModule]:HTTP Server Started on Port: 8077
+FrontAoVivo.exe: 00002284: 22:27:11 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 9HQ8xVoBIS110A62DDE ) : Addr: $00CEC46D
+FrontAoVivo.exe: 00000B18: 22:31:18 []:>--------------------------------------------------------------<
+FrontAoVivo.exe: 00000B18: 22:31:18 [TUniServerModule]:Server First Init.
+FrontAoVivo.exe: 00000B18: 22:31:18 [TUniServerModule]:Start Path = D:\Fontes\LiveDNV_PF\Frontend\Win32\Debug\
+FrontAoVivo.exe: 00000B18: 22:31:18 [TUniServerModule]:Debug Mode = ON
+FrontAoVivo.exe: 00000B18: 22:31:18 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+FrontAoVivo.exe: 00000B18: 22:31:19 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+FrontAoVivo.exe: 00000B18: 22:31:19 [TUniServerModule]:HTTP Server Started on Port: 8077
+FrontAoVivo.exe: 00004004: 22:40:17 []:>--------------------------------------------------------------<
+FrontAoVivo.exe: 00004004: 22:40:17 [TUniServerModule]:Server First Init.
+FrontAoVivo.exe: 00004004: 22:40:17 [TUniServerModule]:Start Path = D:\Fontes\LiveDNV_PF\Frontend\Win32\Debug\
+FrontAoVivo.exe: 00004004: 22:40:17 [TUniServerModule]:Debug Mode = ON
+FrontAoVivo.exe: 00004004: 22:40:17 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+FrontAoVivo.exe: 00004004: 22:40:17 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+FrontAoVivo.exe: 00004004: 22:40:18 [TUniServerModule]:HTTP Server Started on Port: 8077
+FrontAoVivo.exe: 00003D2C: 22:49:24 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: eKcoVnZxBC110A632C4 ) : Addr: $0078C46D
+FrontAoVivo.exe: 000004F8: 23:02:48 []:>--------------------------------------------------------------<
+FrontAoVivo.exe: 000004F8: 23:02:48 [TUniServerModule]:Server First Init.
+FrontAoVivo.exe: 000004F8: 23:02:48 [TUniServerModule]:Start Path = D:\Fontes\LiveDNV_PF\Frontend\Win32\Debug\
+FrontAoVivo.exe: 000004F8: 23:02:48 [TUniServerModule]:Debug Mode = ON
+FrontAoVivo.exe: 000004F8: 23:02:48 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+FrontAoVivo.exe: 000004F8: 23:02:48 [TUniServerModule]:HTTP Server Started on Port: 8077
+FrontAoVivo.exe: 00003110: 23:03:10 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: WPsvUx6w3u110A63600 ) : Addr: $004EC46D
+FrontAoVivo.exe: 000042AC: 23:07:41 []:>--------------------------------------------------------------<
+FrontAoVivo.exe: 000042AC: 23:07:41 [TUniServerModule]:Server First Init.
+FrontAoVivo.exe: 000042AC: 23:07:41 [TUniServerModule]:Start Path = D:\Fontes\LiveDNV_PF\Frontend\Win32\Debug\
+FrontAoVivo.exe: 000042AC: 23:07:41 [TUniServerModule]:Debug Mode = ON
+FrontAoVivo.exe: 000042AC: 23:07:41 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+FrontAoVivo.exe: 000042AC: 23:07:42 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+FrontAoVivo.exe: 000042AC: 23:07:42 [TUniServerModule]:HTTP Server Started on Port: 8077
+FrontAoVivo.exe: 00003E48: 23:07:44 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 7XzqiwkNXa110A638E4 ) : Addr: $00B8C46D

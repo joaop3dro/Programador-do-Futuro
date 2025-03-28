@@ -1,0 +1,27 @@
+unit uCons.Menus;
+
+interface
+
+ const
+   MENU_CADASTRO = '''
+    '<svg fill="#000000" xmlns="http://www.w3.org/2000/svg"
+        	 width="30px" height="30px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+        <g>
+        	<path d="M44.8,58.3c3.7-2.1,7.2-3.1,11.1-3.1c1.1,0,2.2,0.1,3.2,0.2c0.5,0.1,0.6-0.1,0.1-0.4c-1.9-1.1-4-2.1-6.2-3
+        		c-4.3-1.8-4.9-3.4-4.9-5.2c0-1.8,1.2-3.4,2.6-4.7c2.5-2.3,3.9-5.4,3.9-9.1c0-6.9-4.3-12.8-11.9-12.8c-7.6,0-11.9,5.9-11.9,12.8
+        		c0,3.7,1.4,6.9,3.9,9.1c1.4,1.3,2.6,3,2.6,4.7c0,1.7-0.7,3.4-4.9,5.2c-6.2,2.6-12.1,5.6-12.2,11.2c0,3.7,2.8,7,6.3,7h14.2
+        		c1.1,0,2-0.9,2-2l0-6.5C42.8,60.3,43.5,59,44.8,58.3z"/>
+        	<path d="M77.3,64.2c-9.4,2.9-16.8-6-27.1-1.8c-0.8,0.3-1.2,1-1.2,1.9V75c0,1.4,1.2,2.3,2.5,1.9
+        		c10.2-3.1,17.6,5.8,27.2,1.8c0.7-0.3,1.3-1,1.3-1.9V66.1C80,64.8,78.6,63.8,77.3,64.2z M64.8,74.2c-2.2,0-4-1.8-4-4
+        		c0-2.2,1.8-4,4-4s4,1.8,4,4C68.8,72.4,67,74.2,64.8,74.2z"/>
+        </g>
+        </svg>
+''';
+
+   MENU_AGENDA ='''
+                 <svg fill="#000000" width="30px" height="30px" viewBox="0 0 24 24" id="agenda" data-name="Line Color" xmlns="http://www.w3.org/2000/svg" class="icon line-color"><path id="secondary" d="M12,3V9L10,8,8,9V3Zm9,4H19V9h2Zm0,6H19v2h2Z" style="fill: none; stroke: rgb(44, 169, 188); stroke-linecap: round; stroke-linejoin: round; stroke-width: 2;"></path><rect id="primary" x="2.5" y="4.5" width="18" height="15" rx="1" transform="translate(23.5 0.5) rotate(90)" style="fill: none; stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-linejoin: round; stroke-width: 2;"></rect></svg>
+               ''';
+
+implementation
+
+end.

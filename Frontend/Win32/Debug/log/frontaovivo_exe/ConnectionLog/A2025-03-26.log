@@ -1,0 +1,3 @@
+FrontAoVivo.exe: 00003A4C: 21:35:40 [127.0.0.1]:Failed Sequence Recovery: SeqId: 3, Event: click
+FrontAoVivo.exe: 00003A4C: 21:35:40 [127.0.0.1]:Sequence sent from cache:  SeqId: 3
+FrontAoVivo.exe: 00003A4C: 21:35:40 [127.0.0.1]:Processed: Id: 3, Evt: click, [PnbaYJmcVJ110A62009]

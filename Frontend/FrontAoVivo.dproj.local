@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/03/26 19:56:24.896,=D:\Fontes\LiveDNV_PF\Frontend\ServerModule.pas</Transaction>
+    <Transaction>2025/03/26 19:56:25.164,=D:\Fontes\LiveDNV_PF\Frontend\MainModule.pas</Transaction>
+    <Transaction>2025/03/26 19:56:26.377,=D:\Fontes\LiveDNV_PF\Frontend\Main.pas</Transaction>
+    <Transaction>2025/03/26 20:05:53.312,=D:\Fontes\UniDinosStyle\DinosStyle\ConversorBootstrap\Bootstrap.Converter.Buttons.Dinos.pas</Transaction>
+    <Transaction>2025/03/26 20:05:53.524,=D:\Fontes\UniDinosStyle\DinosStyle\ConversorBootstrap\Bootstrap.Converter.Checkbox.Dinos.pas</Transaction>
+    <Transaction>2025/03/26 20:05:53.659,=D:\Fontes\UniDinosStyle\DinosStyle\ConversorBootstrap\Bootstrap.Converter.Edits.Dinos.pas</Transaction>
+    <Transaction>2025/03/26 20:05:53.864,=D:\Fontes\UniDinosStyle\DinosStyle\ConversorBootstrap\Bootstrap.Converter.Grids.Dinos.pas</Transaction>
+    <Transaction>2025/03/26 20:05:54.049,=D:\Fontes\UniDinosStyle\DinosStyle\ConversorBootstrap\Bootstrap.Converter.Images.Dinos.pas</Transaction>
+    <Transaction>2025/03/26 20:05:54.275,=D:\Fontes\UniDinosStyle\DinosStyle\ConversorBootstrap\Bootstrap.Converter.Labels.Dinos.pas</Transaction>
+    <Transaction>2025/03/26 20:05:54.454,=D:\Fontes\UniDinosStyle\DinosStyle\ConversorBootstrap\Bootstrap.Converter.Map.Dinos.pas</Transaction>
+    <Transaction>2025/03/26 20:05:54.609,=D:\Fontes\UniDinosStyle\DinosStyle\ConversorBootstrap\Bootstrap.Converter.Memos.Dinos.pas</Transaction>
+    <Transaction>2025/03/26 20:05:54.746,=D:\Fontes\UniDinosStyle\DinosStyle\ConversorBootstrap\Bootstrap.Converter.Panels.Dinos.pas</Transaction>
+    <Transaction>2025/03/26 20:05:55.008,=D:\Fontes\UniDinosStyle\DinosStyle\ConversorBootstrap\Bridge.Dinos.pas</Transaction>
+    <Transaction>2025/03/26 20:05:55.217,=D:\Fontes\UniDinosStyle\DinosStyle\ConversorBootstrap\js.SweetAlert.Dinos.pas</Transaction>
+    <Transaction>2025/03/26 20:05:55.430,=D:\Fontes\UniDinosStyle\DinosStyle\ConversorBootstrap\uConst.Buttons.pas</Transaction>
+    <Transaction>2025/03/26 20:05:55.600,=D:\Fontes\UniDinosStyle\DinosStyle\ConversorBootstrap\uConst.Form.Controls.pas</Transaction>
+    <Transaction>2025/03/26 20:05:55.894,=D:\Fontes\UniDinosStyle\DinosStyle\ConversorBootstrap\uConst.Grids.pas</Transaction>
+    <Transaction>2025/03/26 20:29:31.537,=D:\Fontes\LiveDNV_PF\Frontend\Unit1.pas</Transaction>
+    <Transaction>2025/03/26 20:29:43.949,D:\Fontes\LiveDNV_PF\Frontend\uCons.Menus.pas=D:\Fontes\LiveDNV_PF\Frontend\Unit1.pas</Transaction>
+    <Transaction>2025/03/26 21:01:10.861,=D:\Fontes\LiveDNV_PF\Frontend\Unit1.pas</Transaction>
+    <Transaction>2025/03/26 21:01:29.769,=D:\Fontes\LiveDNV_PF\Frontend\Unit1.pas</Transaction>
+    <Transaction>2025/03/26 21:02:05.984,D:\Fontes\LiveDNV_PF\Frontend\Services\uServices.Cliente.dfm=D:\Fontes\LiveDNV_PF\Frontend\Unit1.dfm</Transaction>
+    <Transaction>2025/03/26 21:02:05.984,D:\Fontes\LiveDNV_PF\Frontend\Services\uServices.Cliente.pas=D:\Fontes\LiveDNV_PF\Frontend\Unit1.pas</Transaction>
+    <Transaction>2025/03/26 21:05:07.148,=D:\Fontes\LiveDNV_PF\Frontend\Unit1.pas</Transaction>
+    <Transaction>2025/03/26 21:05:34.369,D:\Fontes\LiveDNV_PF\Frontend\Dto\uDto.Cliente.pas=D:\Fontes\LiveDNV_PF\Frontend\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
