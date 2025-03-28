@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/09/06 17:47:34.000.473,=C:\Users\vboxuser\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/15 10:47:28.000.367,=C:\Users\vboxuser\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/15 10:51:51.000.618,=C:\Users\vboxuser\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/27 17:19:03.000.520,=C:\Users\vboxuser\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/12/27 21:25:35.000.433,=C:\Users\vboxuser\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/11 18:40:40.000.635,=C:\Users\vboxuser\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/11 18:41:10.000.545,=C:\Users\vboxuser\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/11 18:41:50.000.453,=C:\Users\vboxuser\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/11 18:51:29.000.676,=C:\Users\vboxuser\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/12/16 22:16:54.000.736,=C:\Users\vboxuser\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/02/07 14:37:43.000.600,=C:\Users\vboxuser\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/02/07 14:40:41.000.281,=C:\Users\vboxuser\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/03/27 19:26:31.000.389,=C:\Users\vboxuser\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/03/27 19:41:43.000.094,=C:\Users\vboxuser\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/03/27 19:42:18.000.188,C:\Users\vboxuser\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Desenvolvimento\Live3\app\view.principal.fmx</Transaction>
+    <Transaction>2025/03/27 19:42:18.000.188,C:\Users\vboxuser\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Desenvolvimento\Live3\app\view.principal.pas</Transaction>
+    <Transaction>2025/03/27 19:43:56.000.289,C:\Users\vboxuser\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Desenvolvimento\Live3\app\Demo.dproj</Transaction>
+    <Transaction>2025/03/27 20:10:48.000.109,=C:\Desenvolvimento\Live3\app\Unit2.pas</Transaction>
+    <Transaction>2025/03/27 20:11:00.000.535,C:\Desenvolvimento\Live3\app\Unit2.pas=C:\Desenvolvimento\Live3\app\view.lista.pas</Transaction>
+    <Transaction>2025/03/27 20:11:00.000.535,C:\Desenvolvimento\Live3\app\Unit2.fmx=C:\Desenvolvimento\Live3\app\view.lista.fmx</Transaction>
+    <Transaction>2025/03/27 20:11:16.000.578,=C:\Desenvolvimento\Live3\app\Unit1.pas</Transaction>
+    <Transaction>2025/03/27 20:11:28.000.222,C:\Desenvolvimento\Live3\app\Unit1.pas=C:\Desenvolvimento\Live3\app\frame.cliente.pas</Transaction>
+    <Transaction>2025/03/27 20:11:28.000.222,C:\Desenvolvimento\Live3\app\Unit1.fmx=C:\Desenvolvimento\Live3\app\frame.cliente.fmx</Transaction>
+    <Transaction>2025/03/27 20:24:50.091,=C:\Desenvolvimento\Live3\app\uConnection.pas</Transaction>
+    <Transaction>2025/03/27 20:26:41.634,=C:\Desenvolvimento\Live3\app\Unit1.pas</Transaction>
+    <Transaction>2025/03/27 20:26:47.433,C:\Desenvolvimento\Live3\app\controller.cliente.pas=C:\Desenvolvimento\Live3\app\Unit1.pas</Transaction>
+    <Transaction>2025/03/27 20:52:31.435,=C:\Desenvolvimento\Live3\app\uFancyDialog.pas</Transaction>
+    <Transaction>2025/03/27 20:52:31.480,=C:\Desenvolvimento\Live3\app\uLoading.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android64="" Android=""/>
+		<PMacBookAir2020 iOSSimARM64="_iossimulator_20EBF522-FB5B-4BEF-A068-FF1AA3B72A70"/>
+	</ActiveMobileDevice>
+</BorlandProject>
